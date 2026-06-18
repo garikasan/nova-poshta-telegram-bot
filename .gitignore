@@ -1,0 +1,4 @@
+.env
+shipments.db
+.venv/
+__pycache__/
